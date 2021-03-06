@@ -7,5 +7,3 @@ print("LED on")
 GPIO.output(18, GPIO.HIGH)
 time.sleep(1)
 GPIO.output(18, GPIO.LOW)
-
-##another test to github
