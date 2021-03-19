@@ -1,3 +1,5 @@
+## simple I2C Test on a 4x20 lcd - remove lines 3 and 4 if using a 2x16
+
 import I2C_LCD_driver
 from time import *
 
