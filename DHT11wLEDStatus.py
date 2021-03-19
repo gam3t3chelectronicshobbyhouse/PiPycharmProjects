@@ -1,4 +1,7 @@
 ## will have to run  sudo pip3 install Adafruit_DHT  in terminal.
+## original code https://www.thegeekpub.com/236867/using-the-dht11-temperature-sensor-with-the-raspberry-pi/
+## Adjusted with LED Code by Gam3t3ch Electronics
+
 import Adafruit_DHT
 import RPi.GPIO as GPIO
 import time
