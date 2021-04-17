@@ -53,3 +53,4 @@ Comment=Python IDE
 Categories=Development;IDE;Programming;
 Terminal=false
 StartupWMClass=jetbrains-pycharm-ce" > /usr/share/applications/jetbrains-pycharm-ce.desktop
+
